@@ -1,6 +1,6 @@
 # Gui_Calculadora
 
-> Entorno gráfico básico para la gestión de Alumnos
+> Calculadora simple con Java Swing
 
 ### DESCRIPCIÓN
 ```
